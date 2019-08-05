@@ -1,4 +1,4 @@
-# Lear-Telnetlib
+# Learn-Telnetlib
 Learn Telnetlib
 
 ###############################################################################
@@ -12,4 +12,9 @@ First :
 Second :
 * download template Network Automation on Marketplace GNS3
   * install the network automation template in the GNS3 application
+* Create topologi telnetlib and configuration IP Addreess at Network Automtion
+
+################################################################################
+three :
 * 
+
